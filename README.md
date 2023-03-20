@@ -9,6 +9,6 @@ To install the Exchange Online Management Module, open PowerShell as an administ
 1. Save the script in a file named CleanUpOWARules.ps1.
 2. Open PowerShell and navigate to the directory containing the script.
 3. Run the script using the command:  
-`.\CleanUpOWARules.ps1`  
+`.\CleanUp-OWARules.ps1`  
 
 The script will prompt you for your Office 365 admin credentials. After providing the credentials, it will process each mailbox, removing erroring OWA rules.
